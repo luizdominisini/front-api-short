@@ -1,24 +1,9 @@
 # front-api-short
+<p>Esse foi meu primeiro projeto usando vue.js no frontend. O Vue é uma tecnologia que facilita muito a vida e particularmente gostei muito de usar e conhece-lo melhor. Me aprofundarei mais nos estudos para melhorar cada vez mais.</p>
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tecnologias Utilizadas
+<ul>
+  <li>materialize</li>
+  <li>Vue CLI</li>
+  <li>axios</li>
+</ul>
